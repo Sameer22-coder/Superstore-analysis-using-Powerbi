@@ -74,4 +74,8 @@ The Superstore dataset simulates a retail business across various states in the 
 Dashboard.jpg ![Dashboard](https://github.com/Sameer22-coder/Superstore-analysis-using-Powerbi/blob/main/Superstore%20dashboard%20snapshot.jpg)
 
 
+# Feedback and Collaboration
+I welcome feedback, suggestions, and contributions to improve this project!
+If you spot any issues, have ideas to improve visualizations, or suggestions for additional insights—feel free to open an issue or drop a comment.
+
 
