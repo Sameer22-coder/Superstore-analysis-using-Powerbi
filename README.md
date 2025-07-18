@@ -71,6 +71,6 @@ The Superstore dataset simulates a retail business across various states in the 
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview](images/superstore_dashboard.png)
+![Dashboard Preview]([images/superstore_dashboard.png](https://github.com/Sameer22-coder/Superstore-analysis-using-Powerbi/blob/main/Superstore%20dashboard%20snapshot.jpg))
 
 
